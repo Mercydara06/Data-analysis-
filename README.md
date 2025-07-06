@@ -1,2 +1,2 @@
 # Data-analysis-
-Analyzing data using ms excel, SQL and power bi
+I worked on an Excel-based data analysis project for Kultra Mega Stores, focused on understanding sales, customer segments and product performance. The proect involved cleaning and organizing raw data using pivot tables, charts and formulas to extract insights. I analyzed top-performing product categories,regional sales trends, customer segmentation, and shipping costs. The final output included a dynamic dashboard for visualization and decision-making support.
